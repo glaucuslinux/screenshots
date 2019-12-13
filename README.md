@@ -1,4 +1,4 @@
-# glaucus screenshots
+# glaucus's screenshots
 
 ## Extremely Lightweight
 
