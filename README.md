@@ -1,5 +1,7 @@
 # glaucus's screenshots
 
+[![Join the chat at https://gitter.im/glaucuslinux/screenshots](https://badges.gitter.im/glaucuslinux/screenshots.svg)](https://gitter.im/glaucuslinux/screenshots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Extremely Lightweight
 ![lightweight](https://github.com/glaucuslinux/screenshots/raw/master/lightweight.png)
 
