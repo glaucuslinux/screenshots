@@ -45,9 +45,10 @@ glaucus's screenshots
 ![vim4](https://github.com/glaucuslinux/screenshots/raw/master/vim4.png)
 
 ## Mirrors
+* [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
+* [Framagit](https://framagit.org/glaucuslinux/screenshots)
 * [GitHub](https://github.com/glaucuslinux/screenshots)
 * [GitLab](https://gitlab.com/glaucuslinux/screenshots)
 * [NotABug](https://notabug.org/glaucuslinux/screenshots)
-* [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
-* [Framagit](https://framagit.org/glaucuslinux/screenshots)
 * [SourceForge](https://git.code.sf.net/p/glaucuslinux/screenshots)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
