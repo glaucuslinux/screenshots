@@ -8,22 +8,18 @@ glaucus's screenshots
 ## Extremely Lightweight
 ![lightweight](https://github.com/glaucuslinux/screenshots/raw/master/lightweight.png)
 
-
 ## Minimal and Clean Supervision Tree
 ![top](https://github.com/glaucuslinux/screenshots/raw/master/top.png)
 
 ![top2](https://github.com/glaucuslinux/screenshots/raw/master/top2.png)
-
 
 ## Minimal and Clean Root Filesystem
 ![fhs](https://github.com/glaucuslinux/screenshots/raw/master/fhs.png)
 
 ![fhs2](https://github.com/glaucuslinux/screenshots/raw/master/fhs2.png)
 
-
 ## Bleeding Edge
 ![uname](https://github.com/glaucuslinux/screenshots/raw/master/uname.png)
-
 
 ## Convenient
 
@@ -45,10 +41,10 @@ glaucus's screenshots
 ![vim4](https://github.com/glaucuslinux/screenshots/raw/master/vim4.png)
 
 ## Mirrors
-* [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
-* [Framagit](https://framagit.org/glaucuslinux/screenshots)
-* [GitHub](https://github.com/glaucuslinux/screenshots)
-* [GitLab](https://gitlab.com/glaucuslinux/screenshots)
-* [NotABug](https://notabug.org/glaucuslinux/screenshots)
-* [SourceForge](https://git.code.sf.net/p/glaucuslinux/screenshots)
-* [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
+*   [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
+*   [Framagit](https://framagit.org/glaucuslinux/screenshots)
+*   [GitHub](https://github.com/glaucuslinux/screenshots)
+*   [GitLab](https://gitlab.com/glaucuslinux/screenshots)
+*   [NotABug](https://notabug.org/glaucuslinux/screenshots)
+*   [SourceForge](https://git.code.sf.net/p/glaucuslinux/screenshots)
+*   [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
