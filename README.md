@@ -43,6 +43,18 @@ glaucus's screenshots
 
 ![vim4](https://github.com/glaucuslinux/screenshots/raw/master/vim4.png)
 
+## Community
+*   [Discord](https://discord.gg/gZSHj65)
+*   [Gitter](https://gitter.im/glaucuslinux/screenshots)
+*   [Reddit](https://www.reddit.com/r/glaucus)
+*   [Telegram](https://t.me/glaucuslinux)
+
+## Donate
+*   [Ko-fi](https://ko-fi.com/glaucuslinux)
+*   [Liberapay](https://liberapay.com/glaucuslinux)
+*   [Patreon](https://www.patreon.com/glaucuslinux)
+*   [PayPal](https://www.paypal.me/glaucuslinux)
+
 ## Mirrors
 *   [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
 *   [Framagit](https://framagit.org/glaucuslinux/screenshots)
