@@ -1,5 +1,7 @@
 # screenshots
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f09e68082938448a85726ca19de234dd)](https://app.codacy.com/gh/glaucuslinux/screenshots?utm_source=github.com&utm_medium=referral&utm_content=glaucuslinux/screenshots&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](
+https://api.codacy.com/project/badge/Grade/f09e68082938448a85726ca19de234dd)](
+https://app.codacy.com/gh/glaucuslinux/screenshots?utm_source=github.com&utm_medium=referral&utm_content=glaucuslinux/screenshots&utm_campaign=Badge_Grade_Dashboard)
 [![Join the chat at https://gitter.im/glaucuslinux/screenshots](
 https://badges.gitter.im/glaucuslinux/screenshots.svg)](
 https://gitter.im/glaucuslinux/screenshots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
