@@ -25,7 +25,6 @@ glaucus's screenshots
 ![uname](https://github.com/glaucuslinux/screenshots/raw/master/uname.png)
 
 ## Convenient
-
 ### Shell Auto-completion and Command History
 ![loksh](https://github.com/glaucuslinux/screenshots/raw/master/loksh.png)
 
@@ -44,22 +43,22 @@ glaucus's screenshots
 ![vim4](https://github.com/glaucuslinux/screenshots/raw/master/vim4.png)
 
 ## Community
-*   [Discord](https://discord.gg/gZSHj65)
-*   [Gitter](https://gitter.im/glaucuslinux/screenshots)
-*   [Reddit](https://www.reddit.com/r/glaucus)
-*   [Telegram](https://t.me/glaucuslinux)
+* [Discord](https://discord.gg/gZSHj65)
+* [Gitter](https://gitter.im/glaucuslinux/screenshots)
+* [Reddit](https://www.reddit.com/r/glaucus)
+* [Telegram](https://t.me/glaucuslinux)
 
 ## Donate
-*   [Ko-fi](https://ko-fi.com/glaucuslinux)
-*   [Liberapay](https://liberapay.com/glaucuslinux)
-*   [Patreon](https://www.patreon.com/glaucuslinux)
-*   [PayPal](https://www.paypal.me/glaucuslinux)
+* [Ko-fi](https://ko-fi.com/glaucuslinux)
+* [Liberapay](https://liberapay.com/glaucuslinux)
+* [Patreon](https://www.patreon.com/glaucuslinux)
+* [PayPal](https://www.paypal.me/glaucuslinux)
 
 ## Mirrors
-*   [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
-*   [Framagit](https://framagit.org/glaucuslinux/screenshots)
-*   [GitHub](https://github.com/glaucuslinux/screenshots)
-*   [GitLab](https://gitlab.com/glaucuslinux/screenshots)
-*   [NotABug](https://notabug.org/glaucuslinux/screenshots)
-*   [SourceForge](https://git.code.sf.net/p/glaucuslinux/screenshots)
-*   [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
+* [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
+* [Framagit](https://framagit.org/glaucuslinux/screenshots)
+* [GitHub](https://github.com/glaucuslinux/screenshots)
+* [GitLab](https://gitlab.com/glaucuslinux/screenshots)
+* [NotABug](https://notabug.org/glaucuslinux/screenshots)
+* [SourceForge](https://git.code.sf.net/p/glaucuslinux/screenshots)
+* [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
