@@ -43,7 +43,7 @@ glaucus's screenshots
 ![vim4](https://github.com/glaucuslinux/screenshots/raw/master/vim4.png)
 
 ## Community
-* [Discord](https://discord.gg/gZSHj65)
+* [Discord](https://discord.gg/nDKNmNc)
 * [Gitter](https://gitter.im/glaucuslinux/screenshots)
 * [Reddit](https://www.reddit.com/r/glaucus)
 * [Telegram](https://t.me/glaucuslinux)
