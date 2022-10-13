@@ -23,14 +23,23 @@ glaucus's screenshots
 ![s6](https://github.com/glaucuslinux/screenshots/raw/master/s6.png)
 
 ## Convenient
-### Shell Auto-completion and Command History
+### Command-line Completion and History
 ![oksh](https://github.com/glaucuslinux/screenshots/raw/master/oksh.png)
 
 ### Manual Pages
 ![mandoc](https://github.com/glaucuslinux/screenshots/raw/master/mandoc.png)
 
-### Powerful Text Editor
+### Modular Text Editor
 ![vim](https://github.com/glaucuslinux/screenshots/raw/master/vim.png)
+
+### Powerful Compiler
+![gcc](https://github.com/glaucuslinux/screenshots/raw/master/gcc.png)
+
+### Next-Gen Utilities
+![wget2](https://github.com/glaucuslinux/screenshots/raw/master/wget2.png)
+
+### Modern Kernel
+![uname](https://github.com/glaucuslinux/screenshots/raw/master/uname.png)
 
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
