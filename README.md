@@ -8,39 +8,29 @@ https://gitter.im/glaucuslinux/screenshots?utm_source=badge&utm_medium=badge&utm
 
 glaucus's screenshots
 
-## Extremely Lightweight
+## Fast
+![boot](https://github.com/glaucuslinux/screenshots/raw/master/boot.gif)
+
+![poweroff](https://github.com/glaucuslinux/screenshots/raw/master/poweroff.gif)
+
+## Lightweight
 ![lightweight](https://github.com/glaucuslinux/screenshots/raw/master/lightweight.png)
 
-## Minimal and Clean Supervision Tree
-![top](https://github.com/glaucuslinux/screenshots/raw/master/top.png)
+## Clean Filesystem Tree
+![hydroskeleton](https://github.com/glaucuslinux/screenshots/raw/master/hydroskeleton.png)
 
-![top2](https://github.com/glaucuslinux/screenshots/raw/master/top2.png)
-
-## Minimal and Clean Root Filesystem
-![fhs](https://github.com/glaucuslinux/screenshots/raw/master/fhs.png)
-
-![fhs2](https://github.com/glaucuslinux/screenshots/raw/master/fhs2.png)
-
-## Bleeding Edge
-![uname](https://github.com/glaucuslinux/screenshots/raw/master/uname.png)
+## Clean s6 Supervision Tree
+![s6](https://github.com/glaucuslinux/screenshots/raw/master/s6.png)
 
 ## Convenient
 ### Shell Auto-completion and Command History
-![loksh](https://github.com/glaucuslinux/screenshots/raw/master/loksh.png)
+![oksh](https://github.com/glaucuslinux/screenshots/raw/master/oksh.png)
 
-![loksh2](https://github.com/glaucuslinux/screenshots/raw/master/loksh2.png)
-
-### Manual Pages (optional)
+### Manual Pages
 ![mandoc](https://github.com/glaucuslinux/screenshots/raw/master/mandoc.png)
 
 ### Powerful Text Editor
 ![vim](https://github.com/glaucuslinux/screenshots/raw/master/vim.png)
-
-![vim2](https://github.com/glaucuslinux/screenshots/raw/master/vim2.png)
-
-![vim3](https://github.com/glaucuslinux/screenshots/raw/master/vim3.png)
-
-![vim4](https://github.com/glaucuslinux/screenshots/raw/master/vim4.png)
 
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
