@@ -9,37 +9,37 @@ https://gitter.im/glaucuslinux/screenshots?utm_source=badge&utm_medium=badge&utm
 glaucus's screenshots
 
 ## Fast
-![boot](https://github.com/glaucuslinux/screenshots/raw/master/boot.gif)
+![boot](boot.gif)
 
-![poweroff](https://github.com/glaucuslinux/screenshots/raw/master/poweroff.gif)
+![poweroff](poweroff.gif)
 
 ## Lightweight
-![lightweight](https://github.com/glaucuslinux/screenshots/raw/master/lightweight.png)
+![lightweight](lightweight.png)
 
 ## Clean Filesystem Tree
-![hydroskeleton](https://github.com/glaucuslinux/screenshots/raw/master/hydroskeleton.png)
+![hydroskeleton](hydroskeleton.png)
 
 ## Clean s6 Supervision Tree
-![s6](https://github.com/glaucuslinux/screenshots/raw/master/s6.png)
+![s6](s6.png)
 
 ## Convenient
 ### Command-line Completion and History
-![oksh](https://github.com/glaucuslinux/screenshots/raw/master/oksh.png)
+![oksh](oksh.png)
 
 ### Manual Pages
-![mandoc](https://github.com/glaucuslinux/screenshots/raw/master/mandoc.png)
+![mandoc](mandoc.png)
 
 ### Modular Text Editor
-![vim](https://github.com/glaucuslinux/screenshots/raw/master/vim.png)
+![vim](vim.png)
 
 ### Powerful Compiler
-![gcc](https://github.com/glaucuslinux/screenshots/raw/master/gcc.png)
+![gcc](gcc.png)
 
 ### Next-Gen Utilities
-![wget2](https://github.com/glaucuslinux/screenshots/raw/master/wget2.png)
+![wget2](wget2.png)
 
 ### Modern Kernel
-![uname](https://github.com/glaucuslinux/screenshots/raw/master/uname.png)
+![uname](uname.png)
 
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
