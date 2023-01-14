@@ -53,5 +53,4 @@ glaucus's screenshots
 * [GitHub](https://github.com/glaucuslinux/screenshots)
 * [GitLab](https://gitlab.com/glaucuslinux/screenshots)
 * [NotABug](https://notabug.org/glaucuslinux/screenshots)
-* [SourceForge](https://git.code.sf.net/p/glaucuslinux/screenshots)
 * [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
