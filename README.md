@@ -6,7 +6,7 @@ https://gitter.im/glaucuslinux/screenshots?utm_source=badge&utm_medium=badge&utm
 glaucus's screenshots
 
 ## Simple
-![new](new.png)
+![simple](simple.png)
 
 ## Lightweight
 ![lightweight](lightweight.png)
