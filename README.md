@@ -5,13 +5,15 @@ https://gitter.im/glaucuslinux/screenshots?utm_source=badge&utm_medium=badge&utm
 
 glaucus's screenshots
 
-## Fast
-![boot](boot.gif)
-
-![poweroff](poweroff.gif)
+## Simple
+![new](new.png)
 
 ## Lightweight
 ![lightweight](lightweight.png)
+
+![boot](boot.gif)
+
+![poweroff](poweroff.gif)
 
 ## Clean Filesystem Tree
 ![hydroskeleton](hydroskeleton.png)
