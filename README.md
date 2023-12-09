@@ -49,10 +49,8 @@ glaucus's screenshots
 * [YouTube](https://www.youtube.com/@glaucuslinux)
 
 ## Mirrors
-* [BitBucket](https://bitbucket.org/glaucuslinux/screenshots)
 * [Codeberg](https://codeberg.org/glaucuslinux/screenshots)
 * [Framagit](https://framagit.org/glaucuslinux/screenshots)
 * [GitHub](https://github.com/glaucuslinux/screenshots)
 * [GitLab](https://gitlab.com/glaucuslinux/screenshots)
-* [NotABug](https://notabug.org/glaucuslinux/screenshots)
 * [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
