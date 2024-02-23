@@ -19,7 +19,7 @@ glaucus's screenshots
 
 ## Convenient
 ### Command-line Completion and History
-![oksh](oksh.png)
+![yash](yash.png)
 
 ### Manual Pages
 ![mandoc](mandoc.png)
