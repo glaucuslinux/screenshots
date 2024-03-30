@@ -5,36 +5,31 @@ glaucus's screenshots
 ![simple](simple.png)
 
 ## Lightweight
-![lightweight](lightweight.png)
-
 ![boot](boot.gif)
 
 ![poweroff](poweroff.gif)
 
-## Clean Filesystem Tree
+### Filesystem Tree
 ![hydroskeleton](hydroskeleton.png)
 
-## Clean s6 Supervision Tree
+### s6 Supervision Tree
 ![s6](s6.png)
 
-## Convenient
+## Pragmatic
 ### Command-line Completion and History
 ![yash](yash.png)
 
 ### Manual Pages
 ![mandoc](mandoc.png)
 
-### Modular Text Editor
+### Text Editor
 ![vim](vim.png)
 
-### Powerful Compiler
+### Compiler
 ![gcc](gcc.png)
 
-### Next-Gen Utilities
+### Utilities
 ![wget2](wget2.png)
-
-### Modern Kernel
-![uname](uname.png)
 
 ## Community
 * [Discord](https://discord.gg/nDKNmNc)
