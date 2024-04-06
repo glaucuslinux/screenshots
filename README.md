@@ -7,8 +7,6 @@ glaucus's screenshots
 ## Lightweight
 ![boot](boot.gif)
 
-![poweroff](poweroff.gif)
-
 ### Filesystem Tree
 ![hydroskeleton](hydroskeleton.png)
 
