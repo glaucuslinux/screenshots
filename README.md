@@ -1,5 +1,5 @@
 # screenshots
-glaucus's screenshots
+glaucus screenshots
 
 ## Simple
 ![simple](simple.png)
