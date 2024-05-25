@@ -8,7 +8,7 @@ glaucus screenshots
 ![boot](boot.gif)
 
 ### Filesystem Tree
-![hydroskeleton](hydroskeleton.png)
+![filesystem](filesystem.png)
 
 ### s6 Supervision Tree
 ![s6](s6.png)
