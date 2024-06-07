@@ -30,15 +30,15 @@ glaucus screenshots
 ![wget2](wget2.png)
 
 ## Community
-* [Discord](https://discord.gg/nDKNmNc)
-* [Reddit](https://www.reddit.com/r/glaucus)
-* [Telegram](https://t.me/glaucuslinux)
-* [Twitter](https://twitter.com/glaucuslinux)
-* [YouTube](https://www.youtube.com/@glaucuslinux)
+- [Discord](https://discord.gg/nDKNmNc)
+- [Reddit](https://www.reddit.com/r/glaucus)
+- [Telegram](https://t.me/glaucuslinux)
+- [Twitter](https://twitter.com/glaucuslinux)
+- [YouTube](https://www.youtube.com/@glaucuslinux)
 
 ## Mirrors
-* [Codeberg](https://codeberg.org/glaucuslinux/screenshots)
-* [Framagit](https://framagit.org/glaucuslinux/screenshots)
-* [GitHub](https://github.com/glaucuslinux/screenshots)
-* [GitLab](https://gitlab.com/glaucuslinux/screenshots)
-* [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
+- [Codeberg](https://codeberg.org/glaucuslinux/screenshots)
+- [Framagit](https://framagit.org/glaucuslinux/screenshots)
+- [GitHub](https://github.com/glaucuslinux/screenshots)
+- [GitLab](https://gitlab.com/glaucuslinux/screenshots)
+- [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
