@@ -38,7 +38,6 @@ glaucus screenshots
 
 ## Mirrors
 - [Codeberg](https://codeberg.org/glaucuslinux/screenshots)
-- [Framagit](https://framagit.org/glaucuslinux/screenshots)
 - [GitHub](https://github.com/glaucuslinux/screenshots)
 - [GitLab](https://gitlab.com/glaucuslinux/screenshots)
 - [SourceHut](https://git.sr.ht/~glaucuslinux/screenshots)
