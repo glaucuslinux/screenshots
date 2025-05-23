@@ -1,33 +1,14 @@
 # screenshots
 glaucus screenshots
 
-## Simple
-![simple](simple.png)
-
-## Lightweight
 ![boot](boot.gif)
-
-### Filesystem Tree
 ![filesystem](filesystem.png)
-
-### s6 Supervision Tree
-![s6](s6.png)
-
-## Pragmatic
-### Command-line Completion and History
-![yash](yash.png)
-
-### Manual Pages
-![mandoc](mandoc.png)
-
-### Text Editor
-![vim](vim.png)
-
-### Compiler
 ![gcc](gcc.png)
-
-### Utilities
+![mandoc](mandoc.png)
+![s6](s6.png)
+![simple](simple.png)
 ![wget2](wget2.png)
+![yash](yash.png)
 
 ## Community
 - [Discord](https://discord.gg/nDKNmNc)
