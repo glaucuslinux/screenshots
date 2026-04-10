@@ -10,12 +10,6 @@ glaucus screenshots
 ![wget2](wget2.png)
 ![yash](yash.png)
 
-## Community
-- [Reddit](https://reddit.com/r/glaucus)
-- [Telegram](https://t.me/glaucuslinux)
-- [X](https://x.com/glaucuslinux)
-- [YouTube](https://youtube.com/@glaucuslinux)
-
 ## Mirrors
 - [Codeberg](https://codeberg.org/glaucuslinux/screenshots)
 - [GitHub](https://github.com/glaucuslinux/screenshots)
